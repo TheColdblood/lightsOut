@@ -1,5 +1,3 @@
-import {listaGen, jatekTabla, kapcsolo } from "./index.js";
+import {init } from "./index.js";
 
-listaGen();
-jatekTabla();
-kapcsolo();
+init();
